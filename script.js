@@ -186,9 +186,30 @@ const articlesData = [
 let displayedArticles = 8;
 let currentArticles = [];
 
+// Theme Management
+function initializeTheme() {
+    // Check for saved theme preference or default to 'light'
+    const savedTheme = localStorage.getItem('theme') || 'light';
+    document.documentElement.setAttribute('data-theme', savedTheme);
+}
+
+function toggleTheme() {
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+    
+    document.documentElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+}
+
 // Initialize
 document.addEventListener('DOMContentLoaded', () => {
-    initializeArticles();
+    initializeTheme();
+    
+    // Only initialize articles if on main page
+    if (document.getElementById('articlesGrid')) {
+        initializeArticles();
+    }
+    
     setupEventListeners();
     setupNavigation();
 });
@@ -203,6 +224,8 @@ function initializeArticles() {
 function loadArticles() {
     const articlesGrid = document.getElementById('articlesGrid');
     const loadMoreBtn = document.getElementById('loadMoreBtn');
+    
+    if (!articlesGrid || !loadMoreBtn) return;
     
     // Clear grid
     articlesGrid.innerHTML = '';
@@ -264,9 +287,17 @@ function createArticleCard(article) {
 
 // Setup Event Listeners
 function setupEventListeners() {
+    // Theme Toggle
+    const themeToggle = document.getElementById('themeToggle');
+    if (themeToggle) {
+        themeToggle.addEventListener('click', toggleTheme);
+    }
+    
     // Newsletter Form (Hero)
     const newsletterForm = document.getElementById('newsletterForm');
-    newsletterForm.addEventListener('submit', handleNewsletterSubmit);
+    if (newsletterForm) {
+        newsletterForm.addEventListener('submit', handleNewsletterSubmit);
+    }
     
     // Footer Newsletter Form
     const footerNewsletterForm = document.getElementById('footerNewsletterForm');
@@ -276,17 +307,23 @@ function setupEventListeners() {
     
     // Load More Button
     const loadMoreBtn = document.getElementById('loadMoreBtn');
-    loadMoreBtn.addEventListener('click', handleLoadMore);
+    if (loadMoreBtn) {
+        loadMoreBtn.addEventListener('click', handleLoadMore);
+    }
     
     // Mobile Menu
     const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
-    mobileMenuBtn.addEventListener('click', toggleMobileMenu);
+    if (mobileMenuBtn) {
+        mobileMenuBtn.addEventListener('click', toggleMobileMenu);
+    }
     
     // Category Cards
     const categoryCards = document.querySelectorAll('.category-card');
-    categoryCards.forEach(card => {
-        card.addEventListener('click', handleCategoryClick);
-    });
+    if (categoryCards.length > 0) {
+        categoryCards.forEach(card => {
+            card.addEventListener('click', handleCategoryClick);
+        });
+    }
 }
 
 // Handle Newsletter Submit
@@ -468,22 +505,24 @@ document.addEventListener('DOMContentLoaded', () => {
     const modal = document.getElementById('articleModal');
     const modalClose = document.getElementById('modalClose');
     
-    // Close button
-    modalClose.addEventListener('click', closeArticleModal);
-    
-    // Click outside modal to close
-    modal.addEventListener('click', (e) => {
-        if (e.target === modal) {
-            closeArticleModal();
-        }
-    });
-    
-    // Escape key to close
-    document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape' && modal.classList.contains('active')) {
-            closeArticleModal();
-        }
-    });
+    if (modal && modalClose) {
+        // Close button
+        modalClose.addEventListener('click', closeArticleModal);
+        
+        // Click outside modal to close
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) {
+                closeArticleModal();
+            }
+        });
+        
+        // Escape key to close
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape' && modal.classList.contains('active')) {
+                closeArticleModal();
+            }
+        });
+    }
 });
 
 // Show Toast Notification
