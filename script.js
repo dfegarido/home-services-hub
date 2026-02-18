@@ -42,43 +42,43 @@ const articlesData = [
     },
     {
         id: 5,
-        title: "Best Video Doorbell Cameras Reviewed",
-        excerpt: "Compare the top video doorbell cameras with features like HD video, two-way audio, and smart home integration.",
-        category: "Security",
+        title: "Beautiful Bathroom Vanity!!😍",
+        excerpt: "Transform your bathroom with stunning vanity designs. Explore modern styles, storage solutions, and installation tips.",
+        category: "Home Improvement",
         date: "Feb 11, 2026",
         image: "https://home-services.wellnessinbox.com/_next/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fa4XKLHQNCag%2Fhqdefault.jpg&w=3840&q=75",
         duration: "14:08",
-        content: "Video doorbells have revolutionized home security, allowing you to see and speak with visitors from anywhere. Our comprehensive review compares the top models available in 2026.\n\nTop Features to Consider:\n• 1080p or 4K HD video quality\n• Night vision capabilities\n• Two-way audio communication\n• Motion detection with customizable zones\n• Cloud storage options\n• Smart home integration (Alexa, Google Home, Apple HomeKit)\n• Battery vs. hardwired power options\n\nWe tested leading brands including Ring, Nest, Arlo, and Eufy, evaluating video quality, app functionality, reliability, and overall value. Discover which video doorbell is the best fit for your home security needs and budget."
+        content: "A beautiful bathroom vanity can completely transform your bathroom space, combining functionality with stunning design. Discover the latest trends and practical tips for choosing and installing the perfect vanity.\n\nKey Considerations:\n• Size and layout to fit your space\n• Single vs. double sink options\n• Modern, traditional, or rustic styles\n• Storage solutions (drawers, cabinets, open shelving)\n• Countertop materials (quartz, marble, granite)\n• Integrated lighting and mirrors\n• Plumbing and installation requirements\n\nWhether you're doing a complete bathroom remodel or just updating your vanity, we'll show you beautiful options that combine style and practicality to create a bathroom you'll love."
     },
     {
         id: 6,
-        title: "How to Create a Modern Bathroom Design",
-        excerpt: "Learn the latest trends in bathroom design, from minimalist fixtures to spa-like features that add luxury.",
+        title: "Beautiful Before & After Kitchen Remodel!!!",
+        excerpt: "See stunning kitchen transformations! From outdated spaces to modern dream kitchens with incredible results.",
         category: "Renovation",
         date: "Feb 10, 2026",
         image: "https://home-services.wellnessinbox.com/_next/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FknAyEr5FRIc%2Fhqdefault.jpg&w=3840&q=75",
         duration: "11:55",
-        content: "Transform your bathroom into a modern spa-like retreat with the latest design trends and innovations. This guide covers everything from layout planning to finishing touches.\n\nModern Bathroom Trends:\n• Minimalist fixtures and clean lines\n• Floating vanities for a spacious feel\n• Walk-in showers with frameless glass\n• Statement tile designs and patterns\n• Smart mirrors with LED lighting\n• Freestanding soaking tubs\n• Heated floors for comfort\n• Natural materials (wood, stone, marble)\n\nLearn how to maximize small spaces, choose the right color palette, select durable materials, and incorporate luxury features that fit your budget. Create a bathroom that's both functional and beautiful."
+        content: "Witness the incredible transformation of a dated kitchen into a stunning modern space. This before and after showcase demonstrates the power of thoughtful design and quality craftsmanship.\n\nKey Features of the Transformation:\n• Complete cabinet replacement with custom cabinetry\n• Modern quartz countertops replacing old laminate\n• New stainless steel appliance package\n• Open concept layout for better flow\n• Contemporary lighting fixtures and pendants\n• Luxury vinyl plank flooring\n• Fresh subway tile backsplash\n• Upgraded plumbing fixtures and hardware\n\nThis remodel shows how strategic updates can completely transform your kitchen's functionality and aesthetic appeal. From demolition to final reveal, see every step of creating a kitchen that's both beautiful and practical for modern living."
     },
     {
         id: 7,
-        title: "Energy-Efficient Home Upgrades That Pay Off",
-        excerpt: "Invest in these energy-efficient upgrades to reduce utility bills and increase your home's value.",
-        category: "Energy",
+        title: "My AHS Story Ramon & Alex (:60) | American Home Shield®",
+        excerpt: "Discover how Ramon and Alex found peace of mind with American Home Shield's home warranty coverage.",
+        category: "Home Maintenance",
         date: "Feb 9, 2026",
         image: "https://home-services.wellnessinbox.com/_next/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnJ_HrrTsO8U%2Fhqdefault.jpg&w=3840&q=75",
         duration: "13:40",
-        content: "Energy-efficient upgrades not only reduce your utility bills but also increase your home's value and comfort. Discover which improvements offer the best return on investment.\n\nTop Energy-Efficient Upgrades:\n• LED lighting throughout your home (Save $225/year)\n• Programmable smart thermostat (Save 10-23% on heating/cooling)\n• Energy-efficient windows (Save $125-$465/year)\n• Proper insulation and air sealing (Save 15% on costs)\n• ENERGY STAR appliances (Save $100+/year)\n• High-efficiency HVAC system (Save 20-40% on energy bills)\n• Low-flow fixtures (Save on water heating)\n\nWe break down the costs, potential savings, and payback periods for each upgrade, helping you prioritize investments that make the most financial and environmental sense for your home."
+        content: "Ramon and Alex share their story about the significance of having a reliable home warranty service. As homeowners who frequently host gatherings, their stove and appliances are integral to their daily routines.\n\nKey Benefits of Home Warranties:\n• Avoid high replacement costs for appliances\n• Smooth and efficient scheduling via app-based tools\n• Quick service intervention when needed\n• Peace of mind for unexpected repairs\n• Regular inspection and maintenance support\n• Professional service ensures safety compliance\n\n'It's only a matter of time before you're going to need it,' says Ramon. When their stove and AC unit needed repairs, having AHS coverage was invaluable. Don't worry. Be warranty."
     },
     {
         id: 8,
-        title: "Fixing Common Plumbing Issues at Home",
-        excerpt: "Tackle common plumbing problems with our step-by-step guide to fixing leaks, clogs, and low water pressure.",
-        category: "Maintenance",
+        title: "Remodel Regrets: Don't Make These Design Mistakes!",
+        excerpt: "Avoid common remodeling pitfalls with expert planning tips. Save time, money, and regret with thoughtful guidance.",
+        category: "Home Improvement",
         date: "Feb 8, 2026",
         image: "https://home-services.wellnessinbox.com/_next/image?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FV2ZxtQc7bMg%2Fhqdefault.jpg&w=3840&q=75",
         duration: "9:33",
-        content: "Save money on plumber bills by fixing common plumbing issues yourself. Our step-by-step guide makes DIY plumbing repairs easy and accessible for homeowners.\n\nCommon Issues Covered:\n• Dripping faucets (washer replacement)\n• Running toilets (flapper and fill valve repair)\n• Slow drains (clog removal techniques)\n• Low water pressure (aerator cleaning)\n• Leaky pipes (temporary and permanent fixes)\n• Garbage disposal problems\n• Water heater maintenance\n\nRequired Tools:\n• Plunger and drain snake\n• Adjustable wrench\n• Pipe wrench\n• Plumber's tape\n• Basin wrench\n\nLearn when you can DIY and when to call a professional. Our guide includes safety tips and troubleshooting advice to help you maintain your home's plumbing system effectively."
+        content: "Remodeling your home can be exciting but challenging. Thoughtful planning and expert guidance can save you time, money, and regret in the long run.\n\nCommon Mistakes to Avoid:\n• Jumping into renovations without a detailed plan\n• Skipping professional contractor consultations\n• Failing to optimize living spaces\n• Ignoring long-term design implications\n• DIY-ing electrical, plumbing, or structural work\n• Not adhering to local building codes\n• Forgetting to consider functionality alongside aesthetics\n\nKey Success Factors:\n• Proper planning evaluating layout, functionality, and aesthetics\n• Professional involvement for major structural changes\n• Regular inspections against initial designs\n• Licensed contractors for technical work\n\n'The last thing you want is a remodel that needs redoing because it wasn't done right the first time.'"
     },
     {
         id: 9,
@@ -269,18 +269,188 @@ function createArticleCard(article) {
         </div>
     `;
     
-    // Add click event to "Read article" link
-    card.querySelector('.read-more').addEventListener('click', (e) => {
-        e.preventDefault();
-        openArticleModal(article);
-    });
-    
-    // Add click event to the entire card
-    card.addEventListener('click', (e) => {
-        if (!e.target.closest('.read-more')) {
+    // Check if article has dedicated blog page
+    if (article.id === 1) {
+        // Redirect to security cameras blog page
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
+            window.location.href = 'blog-security-cameras.html';
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                window.location.href = 'blog-security-cameras.html';
+            }
+        });
+    } else if (article.id === 2) {
+        // Redirect to kitchen remodeling blog page
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
+            window.location.href = 'blog-kitchen-remodeling.html';
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                window.location.href = 'blog-kitchen-remodeling.html';
+            }
+        });
+    } else if (article.id === 3) {
+        // Redirect to solar panel / UI Security blog page
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
+            window.location.href = 'blog-solar-panel.html';
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                window.location.href = 'blog-solar-panel.html';
+            }
+        });
+    } else if (article.id === 4) {
+        // Redirect to home maintenance / Ring Doorbell blog page
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
+            window.location.href = 'blog-home-maintenance.html';
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                window.location.href = 'blog-home-maintenance.html';
+            }
+        });
+    } else if (article.id === 5) {
+        // Redirect to bathroom vanity blog page
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
+            window.location.href = 'blog-bathroom-vanity.html';
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                window.location.href = 'blog-bathroom-vanity.html';
+            }
+        });
+    } else if (article.id === 6) {
+        // Redirect to kitchen storage and lighting blog page
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
+            window.location.href = 'blog-kitchen-storage.html';
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                window.location.href = 'blog-kitchen-storage.html';
+            }
+        });
+    } else if (article.id === 7) {
+        // Redirect to AHS story blog page
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
+            window.location.href = 'blog-ahs-story.html';
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                window.location.href = 'blog-ahs-story.html';
+            }
+        });
+    } else if (article.id === 8) {
+        // Redirect to remodel regrets blog page
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
+            window.location.href = 'blog-remodel-regrets.html';
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                window.location.href = 'blog-remodel-regrets.html';
+            }
+        });
+    } else if (article.id === 9) {
+        // Redirect to smart lighting blog page
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
+            window.location.href = 'blog-smart-lighting.html';
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                window.location.href = 'blog-smart-lighting.html';
+            }
+        });
+    } else if (article.id === 10) {
+        // Redirect to basement finishing blog page
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
+            window.location.href = 'blog-basement-finishing.html';
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                window.location.href = 'blog-basement-finishing.html';
+            }
+        });
+    } else if (article.id === 11) {
+        // Redirect to outdoor security camera blog page
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
+            window.location.href = 'blog-outdoor-security.html';
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                window.location.href = 'blog-outdoor-security.html';
+            }
+        });
+    } else if (article.id === 12) {
+        // Redirect to HVAC maintenance blog page
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
+            window.location.href = 'blog-hvac-maintenance.html';
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                window.location.href = 'blog-hvac-maintenance.html';
+            }
+        });
+    } else if (article.id === 13) {
+        // Redirect to smart thermostat blog page
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
+            window.location.href = 'blog-smart-thermostat.html';
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                window.location.href = 'blog-smart-thermostat.html';
+            }
+        });
+    } else if (article.id === 14) {
+        // Redirect to garage door blog page
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
+            window.location.href = 'blog-garage-door.html';
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                window.location.href = 'blog-garage-door.html';
+            }
+        });
+    } else {
+        // For other articles, use the modal
+        card.querySelector('.read-more').addEventListener('click', (e) => {
+            e.preventDefault();
             openArticleModal(article);
-        }
-    });
+        });
+        
+        card.addEventListener('click', (e) => {
+            if (!e.target.closest('.read-more')) {
+                openArticleModal(article);
+            }
+        });
+    }
     
     return card;
 }
