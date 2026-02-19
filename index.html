@@ -10,20 +10,22 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 </head>
 <body>
-    <!-- Articles Section -->
+
+    <!-- WORDPRESS: paste everything between this comment and the closing toast div into the HTML block -->
+
     <section class="articles-section" id="articles">
         <div class="container">
             <h3 class="footer-articles-title">Home Services Articles</h3>
-            <div class="articles-grid" id="articlesGrid">
+            <div class="articles-grid" id="articlesGrid"></div>
+            <div id="load-more-container" style="text-align:center;padding:20px 0;">
+                <button class="load-more-btn" id="loadMoreBtn">Load More Articles</button>
             </div>
-            <button class="load-more-btn" id="loadMoreBtn">Load More Articles</button>
         </div>
     </section>
 
-    <!-- Article Modal -->
     <div class="modal-overlay" id="articleModal">
         <div class="modal-container">
-            <button class="modal-close" id="modalClose" aria-label="Close modal">&times;</button>
+            <button class="modal-close" id="modalClose">X</button>
             <div class="modal-content">
                 <div class="modal-image">
                     <img src="" alt="" id="modalImage">
@@ -41,8 +43,9 @@
         </div>
     </div>
 
-    <!-- Toast Notification -->
     <div class="toast" id="toast"></div>
+
+    <!-- WORDPRESS: end of HTML block paste. Load vlogs.js via WordPress enqueue or a script plugin -->
 
     <script src="vlogs.js"></script>
 </body>

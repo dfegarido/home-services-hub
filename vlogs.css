@@ -1053,7 +1053,11 @@ strong {
 }
 
 .load-more-btn {
-    display: block;
+    display: inline-block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: relative !important;
+    z-index: 1000 !important;
     margin: 0 auto;
     padding: 0.875rem 2.5rem;
     background-color: #004b2e;
@@ -1074,6 +1078,25 @@ strong {
     box-shadow: var(--shadow-lg);
     background-color: #003f22;
     border-color: #003f22;
+}
+
+/* Force button container to always be visible */
+#load-more-container,
+[data-action="load-more"] {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+/* Ensure articles grid doesn't overlap button */
+.articles-grid {
+    position: relative;
+    z-index: 1;
+}
+
+.articles-section {
+    position: relative;
+    overflow: visible !important;
 }
 
 .load-more-btn:active {
