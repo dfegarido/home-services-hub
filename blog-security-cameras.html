@@ -4,106 +4,37 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Top 5! Which Security Brand Should You Buy in 2026? - Home Services Hub</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="vlogs.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <script>
-        // Initialize theme immediately to prevent flash
         (function() {
-            const savedTheme = localStorage.getItem('theme') || 'light';
-            document.documentElement.setAttribute('data-theme', savedTheme);
+            var t = 'light';
+            try { t = localStorage.getItem('theme') || 'light'; } catch(e) {}
+            document.documentElement.setAttribute('data-theme', t);
         })();
     </script>
 </head>
 <body>
-    <!-- Blog Article -->
     <section class="blog-article">
         <div class="container">
             <div class="blog-header">
                 <h1 class="blog-title">My Top 5! Which Security Brand Should You Buy in 2026?</h1>
             </div>
 
-            <!-- YouTube Video -->
             <div class="blog-video-wrapper">
                 <div class="video-embed">
-                    <div id="videoPlayer" class="video-player">
-                        <div class="youtube-thumbnail" onclick="openVideoModal()">
-                            <img src="https://img.youtube.com/vi/EaV74R2rMwk/maxresdefault.jpg" alt="My Top 5! Which Security Brand Should You Buy in 2026?" class="thumbnail-img">
-                            <div class="play-overlay">
-                                <svg class="play-icon" viewBox="0 0 68 48" xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M66.52,7.74c-0.78-2.93-2.49-5.41-5.42-6.19C55.79,.13,34,0,34,0S12.21,.13,6.9,1.55 C3.97,2.33,2.27,4.81,1.48,7.74C0.06,13.05,0,24,0,24s0.06,10.95,1.48,16.26c0.78,2.93,2.49,5.41,5.42,6.19 C12.21,47.87,34,48,34,48s21.79-0.13,27.1-1.55c2.93-0.78,4.64-3.26,5.42-6.19C67.94,34.95,68,24,68,24S67.94,13.05,66.52,7.74z" fill="#f00"></path>
-                                    <path d="M 45,24 27,14 27,34" fill="#fff"></path>
-                                </svg>
-                                <span class="watch-text">Watch on YouTube</span>
-                            </div>
+                    <a href="https://www.youtube.com/watch?v=EaV74R2rMwk" target="_blank" rel="noopener noreferrer" class="youtube-thumbnail">
+                        <img src="https://img.youtube.com/vi/EaV74R2rMwk/maxresdefault.jpg" alt="My Top 5! Which Security Brand Should You Buy in 2026?" class="thumbnail-img">
+                        <div class="play-overlay">
+                            <div class="play-icon">&#9654;</div>
+                            <span class="watch-text">Watch on YouTube</span>
                         </div>
-                    </div>
+                    </a>
                 </div>
             </div>
 
-            <!-- Video Modal -->
-            <div id="videoModal" class="video-modal" onclick="closeVideoModal()">
-                <div class="video-modal-content" onclick="event.stopPropagation()">
-                    <button class="video-modal-close" onclick="closeVideoModal()">&times;</button>
-                    <div class="video-modal-player">
-                        <iframe 
-                            id="videoFrame"
-                            width="100%" 
-                            height="100%" 
-                            src="" 
-                            title="My Top 5! Which Security Brand Should You Buy in 2026?" 
-                            frameborder="0" 
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-                            allowfullscreen>
-                        </iframe>
-                    </div>
-                </div>
-            </div>
-
-            <script>
-                function openVideoModal() {
-                    // For videos with domain restrictions, open directly on YouTube
-                    // This ensures users can always watch the video
-                    const videoId = 'EaV74R2rMwk';
-                    const youtubeUrl = `https://www.youtube.com/watch?v=${videoId}`;
-                    
-                    // Open in new tab
-                    window.open(youtubeUrl, '_blank', 'noopener,noreferrer');
-                    
-                    /* Alternative: Try embedding first, then fallback to YouTube
-                    const modal = document.getElementById('videoModal');
-                    const iframe = document.getElementById('videoFrame');
-                    iframe.src = 'https://www.youtube.com/embed/EaV74R2rMwk?autoplay=1&rel=0&modestbranding=1';
-                    modal.style.display = 'flex';
-                    document.body.style.overflow = 'hidden';
-                    
-                    // Fallback: If error after 2 seconds, redirect to YouTube
-                    setTimeout(() => {
-                        closeVideoModal();
-                        window.open(youtubeUrl, '_blank', 'noopener,noreferrer');
-                    }, 2000);
-                    */
-                }
-
-                function closeVideoModal() {
-                    const modal = document.getElementById('videoModal');
-                    const iframe = document.getElementById('videoFrame');
-                    // Stop video by clearing src
-                    iframe.src = '';
-                    modal.style.display = 'none';
-                    document.body.style.overflow = 'auto';
-                }
-
-                // Close modal with Escape key
-                document.addEventListener('keydown', function(e) {
-                    if (e.key === 'Escape') {
-                        closeVideoModal();
-                    }
-                });
-            </script>
-
-            <!-- Article Content -->
             <div class="blog-content">
                 <p class="lead-text">Choosing the right home security system can offer peace of mind and enhanced safety for your property. With numerous options available, it's vital to understand the strengths and weaknesses of popular brands. In this overview, an expert examines the top five security camera brands and explains the technology behind them.</p>
 
@@ -174,7 +105,7 @@
         </div>
     </section>
 
-    <script src="script.js"></script>
+    <script src="vlogs.js"></script>
 </body>
 </html>
 
