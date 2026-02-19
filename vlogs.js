@@ -12,83 +12,83 @@ var articlesData = [
     },
     {
         id: 2,
-        title: "Complete Guide to Kitchen Remodeling",
-        excerpt: "Transform your kitchen with expert tips on layout, materials, and budget planning for your dream renovation.",
-        category: "Renovation",
+        title: "4 Ways Homeowners Can Maintain Their Roof",
+        excerpt: "Discover the 4 most important roof maintenance tips every homeowner should know to prevent costly repairs and extend the life of their roof.",
+        category: "Maintenance",
         date: "Feb 14, 2026",
-        image: "https://i.ytimg.com/vi/QJR-IVC6vXs/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/SGppNP2reFo/hqdefault.jpg",
         duration: "15:30",
-        content: "Kitchen remodeling is one of the most rewarding home improvement projects you can undertake. This comprehensive guide walks you through every step of the process.\n\nPlanning Your Kitchen Remodel:\n- Assess your needs and lifestyle\n- Set a realistic budget\n- Choose the right layout\n- Select durable materials and finishes\n- Plan for proper lighting and ventilation"
+        content: "Your roof is your home's first line of defense against the elements. In this video, we cover the 4 most important ways homeowners can maintain their roof and avoid costly repairs.\n\n4 Ways to Maintain Your Roof:\n1. Inspect your roof regularly — look for missing shingles, damaged flashing, and signs of wear\n2. Keep gutters clean and clear — clogged gutters cause water backup and serious roof damage\n3. Trim overhanging trees and branches — branches can scrape shingles and drop debris\n4. Address small repairs immediately — a minor fix today prevents a major expense tomorrow\n\nBonus Tip:\n- Know when to call a professional roofer for inspections and larger repairs\n- Consider a home warranty to cover unexpected system damage caused by roof issues\n\nWatch the full video at: https://www.youtube.com/watch?v=SGppNP2reFo"
     },
     {
         id: 3,
-        title: "Solar Panel Installation: What You Need to Know",
-        excerpt: "Everything about solar panel installation, costs, benefits, and how to choose the right system for your home.",
-        category: "Energy",
+        title: "GUTTER STRAINER OR GUTTER GUARD? What Works the Best?",
+        excerpt: "Gutter strainer or gutter guard — which one actually keeps your gutters clean? We break down the pros and cons of each so you can make the best choice for your home.",
+        category: "Maintenance",
         date: "Feb 13, 2026",
-        image: "https://i.ytimg.com/vi/yjAU5mflg7E/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/w8GxJTBh-Pc/hqdefault.jpg",
         duration: "18:22",
-        content: "Solar energy is becoming increasingly affordable and accessible for homeowners. This guide covers everything you need to know about installing solar panels on your home.\n\nWhat You will Learn:\n- Understanding solar panel technology and efficiency ratings\n- Average installation costs before incentives\n- Federal tax credits and state rebates\n- Roof requirements and orientation considerations\n- Expected ROI and payback period"
+        content: "When it comes to keeping your gutters clog-free, homeowners often debate between gutter strainers and gutter guards. Both promise to reduce maintenance, but which one actually delivers?\n\nGutter Strainer:\n- Fits inside the downspout opening to catch debris\n- Easy to install and very affordable\n- Requires regular cleaning to stay effective\n- Best for light debris like small leaves and twigs\n\nGutter Guard:\n- Covers the entire gutter channel to block debris from entering\n- Multiple types: mesh, reverse curve, foam, and brush styles\n- Higher upfront cost but less frequent cleaning needed\n- Best for heavy debris and homes surrounded by trees\n\nVerdict:\n- For minimal budgets: gutter strainers are a solid starting point\n- For long-term, low-maintenance protection: gutter guards win\n- Combining both can offer the best results for most homes\n\nWatch the full video at: https://www.youtube.com/watch?v=w8GxJTBh-Pc"
     },
     {
         id: 4,
-        title: "DIY Home Maintenance Checklist for Every Season",
-        excerpt: "Keep your home in top condition with this comprehensive seasonal maintenance checklist for homeowners.",
-        category: "Maintenance",
+        title: "Flat Roof Installation Over Tar and Gravel - Most Effective Recover Roofing System",
+        excerpt: "Watch a full flat roof installation over an existing tar and gravel roof using the most effective recover roofing system — step by step from prep to finish.",
+        category: "Roofing",
         date: "Feb 12, 2026",
-        image: "https://i.ytimg.com/vi/M2Sh1IRC7Gs/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/RpCzsQ7HUog/hqdefault.jpg",
         duration: "10:15",
-        content: "Regular home maintenance prevents costly repairs and keeps your property in top condition year-round. Our seasonal checklist makes it easy to stay on top of essential tasks.\n\nSpring Tasks:\n- Inspect roof and gutters\n- Service HVAC system\n- Check exterior paint and siding\n\nSummer Tasks:\n- Inspect and clean deck/patio\n- Check irrigation system\n\nFall Tasks:\n- Clean gutters and downspouts\n- Winterize outdoor faucets\n- Check weatherstripping\n\nWinter Tasks:\n- Monitor for ice dams\n- Check insulation\n- Test smoke and CO detectors"
+        content: "Installing a new flat roof over an existing tar and gravel surface is one of the most cost-effective and durable roofing solutions available. This video walks through the entire process from surface preparation to final installation.\n\nWhat You Will Learn:\n- Why recovering over tar and gravel is often better than full tear-off\n- Surface preparation steps for a clean, secure bond\n- Choosing the right recover roofing system (TPO, EPDM, or modified bitumen)\n- Step-by-step installation of the new membrane\n- Flashing details around edges, drains, and penetrations\n- Final inspection checklist for a watertight flat roof\n\nKey Benefits of This System:\n- Saves time and cost by avoiding full tear-off\n- Adds an extra layer of insulation and protection\n- Long-lasting results when installed correctly\n\nWatch the full video at: https://www.youtube.com/watch?v=RpCzsQ7HUog"
     },
     {
         id: 5,
-        title: "Beautiful Bathroom Vanity",
-        excerpt: "Transform your bathroom with stunning vanity designs. Explore modern styles, storage solutions, and installation tips.",
-        category: "Home Improvement",
+        title: "The Different Types of Gutter - Rain Gutter Types!",
+        excerpt: "Not all gutters are created equal. Learn about the different types of rain gutters, their materials, shapes, and which one is the best fit for your home.",
+        category: "Roofing",
         date: "Feb 11, 2026",
-        image: "https://i.ytimg.com/vi/a4XKLHQNCag/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/PlDeN_Cv9vI/hqdefault.jpg",
         duration: "14:08",
-        content: "A beautiful bathroom vanity can completely transform your bathroom space. Discover the latest trends and practical tips for choosing and installing the perfect vanity.\n\nKey Considerations:\n- Size and layout to fit your space\n- Single vs double sink options\n- Modern, traditional, or rustic styles\n- Storage solutions\n- Countertop materials\n- Integrated lighting and mirrors"
+        content: "Choosing the right rain gutter for your home is more important than most homeowners realize. The wrong type can lead to poor drainage, water damage, and costly repairs.\n\nGutter Shapes:\n- K-Style Gutters: Most popular, handles high water volume, fits modern homes\n- Half-Round Gutters: Classic look, great for older or historic homes\n- Box Gutters: Built into the roofline, common on commercial buildings\n\nGutter Materials:\n- Aluminum: Lightweight, rust-resistant, most affordable — best for most homes\n- Vinyl: Budget-friendly, easy DIY install, but can crack in cold climates\n- Steel: Heavy-duty and strong, but prone to rust over time\n- Copper: Long-lasting and beautiful, premium cost\n- Zinc: Very durable, self-healing surface, common in Europe\n\nWatch the full video at: https://www.youtube.com/watch?v=PlDeN_Cv9vI"
     },
     {
         id: 6,
-        title: "Beautiful Before and After Kitchen Remodel",
-        excerpt: "See stunning kitchen transformations! From outdated spaces to modern dream kitchens with incredible results.",
-        category: "Renovation",
+        title: "GUTTER CLEANING How To - Best Way To Professionally Clean Your Gutters With An Exact Tools List",
+        excerpt: "Learn the best way to professionally clean your gutters with a step-by-step how-to guide and an exact list of tools you need to get the job done right.",
+        category: "Maintenance",
         date: "Feb 10, 2026",
-        image: "https://i.ytimg.com/vi/knAyEr5FRIc/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/EmF55-4WQ7c/hqdefault.jpg",
         duration: "11:55",
-        content: "Witness the incredible transformation of a dated kitchen into a stunning modern space. This before and after showcase demonstrates the power of thoughtful design.\n\nKey Features of the Transformation:\n- Complete cabinet replacement\n- Modern quartz countertops\n- New stainless steel appliance package\n- Open concept layout for better flow\n- Contemporary lighting fixtures"
+        content: "Cleaning your gutters doesn't have to be a guessing game. This video walks you through the professional way to clean gutters from start to finish, with a full list of tools you need.\n\nExact Tools List:\n- Sturdy extension ladder\n- Work gloves (waterproof)\n- Gutter scoop or small trowel\n- Bucket or trash bag with hook\n- Garden hose with spray nozzle\n- Plumber's snake (for stubborn downspout clogs)\n- Safety glasses\n\nStep-by-Step Process:\n1. Set up ladder safely on stable ground\n2. Remove large debris by hand or with scoop\n3. Work from the far end toward the downspout\n4. Flush gutters with hose to check flow\n5. Clear downspouts with hose or plumber's snake\n6. Inspect for leaks, sags, or loose fasteners\n\nWatch the full video at: https://www.youtube.com/watch?v=EmF55-4WQ7c"
     },
     {
         id: 7,
-        title: "My AHS Story Ramon and Alex | American Home Shield",
-        excerpt: "Discover how Ramon and Alex found peace of mind with American Home Shield's home warranty coverage.",
-        category: "Home Maintenance",
+        title: "How to Install Commercial Door Window Tint",
+        excerpt: "Step-by-step guide on how to professionally install window tint on a commercial door — from cutting and prepping the film to a clean, bubble-free finish.",
+        category: "Home Improvement",
         date: "Feb 9, 2026",
-        image: "https://i.ytimg.com/vi/nJ_HrrTsO8U/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/MwHR0F7-blA/hqdefault.jpg",
         duration: "13:40",
-        content: "Ramon and Alex share their story about the significance of having a reliable home warranty service.\n\nKey Benefits of Home Warranties:\n- Avoid high replacement costs for appliances\n- Smooth and efficient scheduling via app-based tools\n- Quick service intervention when needed\n- Peace of mind for unexpected repairs\n- Regular inspection and maintenance support"
+        content: "Installing window tint on a commercial door is a great way to add privacy, reduce glare, and improve energy efficiency. This video walks through the full installation process step by step.\n\nWhat You Will Need:\n- Window tint film (privacy or solar control)\n- Squeegee and hard card\n- Spray bottle with soapy water solution\n- Sharp utility knife or film cutter\n- Measuring tape\n- Lint-free cloth\n\nInstallation Steps:\n1. Clean the glass thoroughly — no dust, streaks, or residue\n2. Measure and cut the film slightly larger than the glass\n3. Spray the glass with soapy water solution\n4. Peel the film liner and apply film to the wet glass\n5. Squeegee out water and air bubbles from center outward\n6. Trim edges with a utility knife for a clean finish\n7. Final squeegee pass and wipe down edges\n\nWatch the full video at: https://www.youtube.com/watch?v=MwHR0F7-blA"
     },
     {
         id: 8,
-        title: "Remodel Regrets: Avoid These Design Mistakes",
-        excerpt: "Avoid common remodeling pitfalls with expert planning tips. Save time, money, and regret with thoughtful guidance.",
+        title: "Learn How to Assemble Window Hardware Direct's Replacement Tilt Jambliner Set",
+        excerpt: "Watch a clear step-by-step guide on how to assemble Window Hardware Direct's replacement tilt Jambliner set and get your windows operating smoothly again.",
         category: "Home Improvement",
         date: "Feb 8, 2026",
-        image: "https://i.ytimg.com/vi/V2ZxtQc7bMg/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/3khNodKXRiY/hqdefault.jpg",
         duration: "9:33",
-        content: "Remodeling your home can be exciting but challenging. Thoughtful planning and expert guidance can save you time, money, and regret.\n\nCommon Mistakes to Avoid:\n- Jumping into renovations without a detailed plan\n- Skipping professional contractor consultations\n- Failing to optimize living spaces\n- Ignoring long-term design implications\n- DIY-ing electrical, plumbing, or structural work"
+        content: "If your double-hung window won't tilt in for cleaning or the tilt mechanism is broken, a replacement Jambliner set from Window Hardware Direct is the fix. This video shows you exactly how to assemble and install it.\n\nWhat Is a Jambliner?\n- The vinyl channel that runs on each side of a double-hung window\n- Houses the balance system that holds the sash in place\n- Enables the tilt-in feature for easy cleaning\n\nAssembly Steps:\n1. Identify your window brand and measure the sash width and height\n2. Order the correct Jambliner set from Window Hardware Direct\n3. Remove the old Jambliner from the window frame\n4. Assemble the new tilt balance into the Jambliner channel\n5. Snap the Jambliner into the window frame\n6. Insert the window sash and test the tilt function\n7. Check that the sash glides smoothly and locks securely\n\nWatch the full video at: https://www.youtube.com/watch?v=3khNodKXRiY"
     },
     {
         id: 9,
-        title: "Smart Lighting Systems: A Buyer Guide",
-        excerpt: "Illuminate your home intelligently with the best smart lighting systems that offer convenience and energy savings.",
-        category: "Smart Home",
+        title: "What Kind of Floor Should I Put in My Bathroom?",
+        excerpt: "Not sure which bathroom flooring is right for you? This guide breaks down the best options by durability, water resistance, style, and budget.",
+        category: "Home Improvement",
         date: "Feb 7, 2026",
-        image: "https://i.ytimg.com/vi/rhImhkHUNSc/hqdefault.jpg",
-        duration: "16:20",
-        content: "Smart lighting transforms your home with convenience, ambiance, and energy savings. Our comprehensive buyer guide helps you choose the perfect smart lighting system.\n\nSmart Lighting Benefits:\n- Control lights from anywhere via smartphone\n- Voice control with Alexa, Google Assistant, or Siri\n- Create custom schedules and automation\n- Adjust brightness and color temperature\n- Energy monitoring and savings"
+        image: "https://i.ytimg.com/vi/9qieFK-Hxzw/hqdefault.jpg",
+        duration: "1:29",
+        content: "Choosing the right bathroom floor is more important than most people think. It needs to be water-resistant, slip-safe, durable, and look great. This quick video breaks down your best options.\n\nTop Bathroom Flooring Options:\n\n1. Ceramic or Porcelain Tile\n- Most popular choice for bathrooms\n- Highly water-resistant and durable\n- Wide variety of styles, colors, and sizes\n- Grout lines require occasional cleaning\n\n2. Luxury Vinyl Plank (LVP) or Vinyl Tile\n- Waterproof and comfortable underfoot\n- Looks like wood or stone without the maintenance\n- Budget-friendly and DIY-friendly\n- Great for families and high-moisture areas\n\n3. Natural Stone (Marble, Slate, Travertine)\n- Elegant and luxurious look\n- Durable but requires sealing to resist moisture\n- More expensive and requires professional installation\n\n4. Sheet Vinyl\n- Affordable and fully waterproof\n- Seamless surface with no grout lines\n- Easy to clean and maintain\n\n5. Engineered Hardwood\n- Warm wood look with better moisture resistance than solid hardwood\n- Not ideal for very wet bathrooms\n\nKey Factors to Consider:\n- Water and humidity resistance\n- Slip resistance (look for textured surfaces)\n- Comfort and warmth underfoot\n- Maintenance and ease of cleaning\n- Budget and DIY vs. professional installation\n\nWatch the full video at: https://www.youtube.com/watch?v=9qieFK-Hxzw"
     },
     {
         id: 10,
@@ -181,6 +181,26 @@ var articlesData = [
         content: "Your roof is your home first line of defense against the elements. Regular inspections and timely repairs prevent costly damage.\n\nInspection Checklist:\n- Missing, cracked, or curling shingles\n- Damaged flashing around chimneys\n- Sagging areas or uneven surfaces\n- Moss, algae, or debris buildup\n- Gutter condition and drainage\n\nInspection Schedule:\n- Biannual inspections in spring and fall\n- After major storms\n- Professional inspection every 3 years"
     }
 ];
+
+// Blog page URL config - update these to your WordPress page URLs
+var blogPageUrls = {
+    // UPDATE: replace each URL with your actual WordPress page URL on homezies.com
+    // Local HTML files are shown as comments for reference
+    1:  'https://homezies.com/vlog-security-cameras/',                          // local: blog-security-cameras.html
+    2:  'https://homezies.com/roof-maintenance/',              // local: blog-roof-maintenance.html
+    3:  'blog-gutter-guard.html',                              // local: blog-gutter-guard.html
+    4:  'blog-flat-roof-installation.html',                    // local: blog-flat-roof-installation.html
+    5:  'blog-rain-gutter-types.html',                         // local: blog-rain-gutter-types.html
+    6:  'blog-gutter-cleaning.html',                           // local: blog-gutter-cleaning.html
+    7:  'blog-window-tint.html',                               // local: blog-window-tint.html
+    8:  'blog-jambliner-assembly.html',                        // local: blog-jambliner-assembly.html
+    9:  'blog-bathroom-floor.html',                            // local: blog-bathroom-floor.html
+    10: 'blog-basement-finishing.html',                        // local: blog-basement-finishing.html
+    11: 'blog-outdoor-security.html',                          // local: blog-outdoor-security.html
+    12: 'blog-hvac-maintenance.html',                          // local: blog-hvac-maintenance.html
+    13: 'blog-smart-thermostat.html',                          // local: blog-smart-thermostat.html
+    14: 'blog-garage-door.html'                                // local: blog-garage-door.html
+};
 
 // State
 var displayedArticles = 8;
@@ -310,183 +330,21 @@ function createArticleCard(article) {
     card.appendChild(thumbnail);
     card.appendChild(content);
     
-    // Check if article has dedicated blog page
-    if (article.id === 1) {
-        // Redirect to security cameras blog page
-        card.querySelector('.read-more').addEventListener('click', (e) => {
-            e.preventDefault();
-            window.location.href = 'blog-security-cameras.html';
-        });
-        
-        card.addEventListener('click', (e) => {
+    var pageUrl = blogPageUrls[article.id] || null;
+
+    if (pageUrl) {
+        readMore.href = pageUrl;
+        card.addEventListener('click', function(e) {
             if (!e.target.closest('.read-more')) {
-                window.location.href = 'blog-security-cameras.html';
-            }
-        });
-    } else if (article.id === 2) {
-        // Redirect to kitchen remodeling blog page
-        card.querySelector('.read-more').addEventListener('click', (e) => {
-            e.preventDefault();
-            window.location.href = 'blog-kitchen-remodeling.html';
-        });
-        
-        card.addEventListener('click', (e) => {
-            if (!e.target.closest('.read-more')) {
-                window.location.href = 'blog-kitchen-remodeling.html';
-            }
-        });
-    } else if (article.id === 3) {
-        // Redirect to solar panel / UI Security blog page
-        card.querySelector('.read-more').addEventListener('click', (e) => {
-            e.preventDefault();
-            window.location.href = 'blog-solar-panel.html';
-        });
-        
-        card.addEventListener('click', (e) => {
-            if (!e.target.closest('.read-more')) {
-                window.location.href = 'blog-solar-panel.html';
-            }
-        });
-    } else if (article.id === 4) {
-        // Redirect to home maintenance / Ring Doorbell blog page
-        card.querySelector('.read-more').addEventListener('click', (e) => {
-            e.preventDefault();
-            window.location.href = 'blog-home-maintenance.html';
-        });
-        
-        card.addEventListener('click', (e) => {
-            if (!e.target.closest('.read-more')) {
-                window.location.href = 'blog-home-maintenance.html';
-            }
-        });
-    } else if (article.id === 5) {
-        // Redirect to bathroom vanity blog page
-        card.querySelector('.read-more').addEventListener('click', (e) => {
-            e.preventDefault();
-            window.location.href = 'blog-bathroom-vanity.html';
-        });
-        
-        card.addEventListener('click', (e) => {
-            if (!e.target.closest('.read-more')) {
-                window.location.href = 'blog-bathroom-vanity.html';
-            }
-        });
-    } else if (article.id === 6) {
-        // Redirect to kitchen storage and lighting blog page
-        card.querySelector('.read-more').addEventListener('click', (e) => {
-            e.preventDefault();
-            window.location.href = 'blog-kitchen-storage.html';
-        });
-        
-        card.addEventListener('click', (e) => {
-            if (!e.target.closest('.read-more')) {
-                window.location.href = 'blog-kitchen-storage.html';
-            }
-        });
-    } else if (article.id === 7) {
-        // Redirect to AHS story blog page
-        card.querySelector('.read-more').addEventListener('click', (e) => {
-            e.preventDefault();
-            window.location.href = 'blog-ahs-story.html';
-        });
-        
-        card.addEventListener('click', (e) => {
-            if (!e.target.closest('.read-more')) {
-                window.location.href = 'blog-ahs-story.html';
-            }
-        });
-    } else if (article.id === 8) {
-        // Redirect to remodel regrets blog page
-        card.querySelector('.read-more').addEventListener('click', (e) => {
-            e.preventDefault();
-            window.location.href = 'blog-remodel-regrets.html';
-        });
-        
-        card.addEventListener('click', (e) => {
-            if (!e.target.closest('.read-more')) {
-                window.location.href = 'blog-remodel-regrets.html';
-            }
-        });
-    } else if (article.id === 9) {
-        // Redirect to smart lighting blog page
-        card.querySelector('.read-more').addEventListener('click', (e) => {
-            e.preventDefault();
-            window.location.href = 'blog-smart-lighting.html';
-        });
-        
-        card.addEventListener('click', (e) => {
-            if (!e.target.closest('.read-more')) {
-                window.location.href = 'blog-smart-lighting.html';
-            }
-        });
-    } else if (article.id === 10) {
-        // Redirect to basement finishing blog page
-        card.querySelector('.read-more').addEventListener('click', (e) => {
-            e.preventDefault();
-            window.location.href = 'blog-basement-finishing.html';
-        });
-        
-        card.addEventListener('click', (e) => {
-            if (!e.target.closest('.read-more')) {
-                window.location.href = 'blog-basement-finishing.html';
-            }
-        });
-    } else if (article.id === 11) {
-        // Redirect to outdoor security camera blog page
-        card.querySelector('.read-more').addEventListener('click', (e) => {
-            e.preventDefault();
-            window.location.href = 'blog-outdoor-security.html';
-        });
-        
-        card.addEventListener('click', (e) => {
-            if (!e.target.closest('.read-more')) {
-                window.location.href = 'blog-outdoor-security.html';
-            }
-        });
-    } else if (article.id === 12) {
-        // Redirect to HVAC maintenance blog page
-        card.querySelector('.read-more').addEventListener('click', (e) => {
-            e.preventDefault();
-            window.location.href = 'blog-hvac-maintenance.html';
-        });
-        
-        card.addEventListener('click', (e) => {
-            if (!e.target.closest('.read-more')) {
-                window.location.href = 'blog-hvac-maintenance.html';
-            }
-        });
-    } else if (article.id === 13) {
-        // Redirect to smart thermostat blog page
-        card.querySelector('.read-more').addEventListener('click', (e) => {
-            e.preventDefault();
-            window.location.href = 'blog-smart-thermostat.html';
-        });
-        
-        card.addEventListener('click', (e) => {
-            if (!e.target.closest('.read-more')) {
-                window.location.href = 'blog-smart-thermostat.html';
-            }
-        });
-    } else if (article.id === 14) {
-        // Redirect to garage door blog page
-        card.querySelector('.read-more').addEventListener('click', (e) => {
-            e.preventDefault();
-            window.location.href = 'blog-garage-door.html';
-        });
-        
-        card.addEventListener('click', (e) => {
-            if (!e.target.closest('.read-more')) {
-                window.location.href = 'blog-garage-door.html';
+                window.location.href = pageUrl;
             }
         });
     } else {
-        // For other articles, use the modal
-        card.querySelector('.read-more').addEventListener('click', (e) => {
+        readMore.addEventListener('click', function(e) {
             e.preventDefault();
             openArticleModal(article);
         });
-        
-        card.addEventListener('click', (e) => {
+        card.addEventListener('click', function(e) {
             if (!e.target.closest('.read-more')) {
                 openArticleModal(article);
             }
