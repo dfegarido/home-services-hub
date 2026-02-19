@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>USA Home Adviser - Home Services Articles</title>
+    <link rel="stylesheet" href="vlogs.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- WORDPRESS: paste everything from the section below down to and including the toast div -->
+
+    <section class="articles-section" id="articles">
+        <div class="container">
+            <h2 class="section-heading">Home Services Articles</h2>
+            <p class="section-subheading">Expert guides to help you plan, budget, and complete your next home project.</p>
+            <div class="articles-grid" id="articlesGrid"></div>
+            <div id="load-more-container" style="text-align:center;padding:20px 0;">
+                <button class="load-more-btn" id="loadMoreBtn">Load More Articles</button>
+            </div>
+        </div>
+    </section>
+
+    <div class="modal-overlay" id="articleModal">
+        <div class="modal-container">
+            <button class="modal-close" id="modalClose">X</button>
+            <div class="modal-content">
+                <div class="modal-image">
+                    <img src="" alt="" id="modalImage">
+                    <div class="modal-video-duration" id="modalDuration"></div>
+                </div>
+                <div class="modal-body">
+                    <div class="modal-meta">
+                        <span class="modal-category" id="modalCategory"></span>
+                        <span class="modal-date" id="modalDate"></span>
+                    </div>
+                    <h2 class="modal-title" id="modalTitle"></h2>
+                    <div class="modal-text" id="modalText"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="toast" id="toast"></div>
+
+    <!-- WORDPRESS: end of HTML block paste. Load vlogs.js separately via WordPress enqueue -->
+
+    <script src="vlogs.js"></script>
+</body>
+</html>
+
