@@ -102,83 +102,83 @@ var articlesData = [
     },
     {
         id: 11,
-        title: "Outdoor Security Camera Installation Tips",
-        excerpt: "Position and install outdoor security cameras effectively to maximize coverage and protect your property.",
+        title: "Wired vs Wireless Cameras [Security 101]",
+        excerpt: "Can't decide between wired and wireless security cameras? This Security 101 breakdown covers the pros, cons, and best use cases for each so you can make the right choice for your home.",
         category: "Security",
         date: "Feb 5, 2026",
-        image: "https://i.ytimg.com/vi/AC_qrwiYXHE/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/ToQQQ72gG28/hqdefault.jpg",
         duration: "8:45",
-        content: "Proper outdoor security camera placement and installation is crucial for effective home protection. Follow our expert tips to maximize coverage.\n\nKey Installation Locations:\n- Front door and entrance areas\n- Driveway and garage\n- Backyard and side yards\n- Windows on ground level\n\nInstallation Best Practices:\n- Mount cameras 8-10 feet high\n- Angle cameras to cover entry points\n- Ensure cameras have clear line of sight"
+        content: "Choosing between wired and wireless security cameras is one of the first decisions you'll face when setting up a home security system. Both have real advantages depending on your home layout, budget, and how much you're willing to DIY.\n\nWired Cameras:\n- More reliable — no Wi-Fi dependency or signal drops\n- Consistent power supply through cable (no battery swaps)\n- Higher video quality in many cases\n- Harder to install — requires running cables through walls\n- Ideal for permanent, professional-grade setups\n\nWireless Cameras:\n- Easy DIY installation — no cables needed\n- Flexible placement anywhere within Wi-Fi range\n- Battery-powered options allow mounting in any location\n- Dependent on Wi-Fi strength and battery life\n- Great for renters or those who want a simple setup\n\nWhich Should You Choose?\n- Choose wired if you want maximum reliability and don't mind a more involved installation\n- Choose wireless if you want flexibility and an easy setup\n\nWatch the full video at: https://www.youtube.com/watch?v=ToQQQ72gG28"
     },
     {
         id: 12,
-        title: "HVAC Maintenance: Keep Your System Running",
-        excerpt: "Essential HVAC maintenance tips to ensure optimal performance, efficiency, and longevity of your system.",
-        category: "Maintenance",
+        title: "Tapo C465 4K Solar Camera Complete Setup and Review!",
+        excerpt: "Full setup guide and honest review of the Tapo C465 4K Solar Security Camera — everything you need to know before you buy and install one.",
+        category: "Security",
         date: "Feb 4, 2026",
-        image: "https://i.ytimg.com/vi/8nkUOp6GGys/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/dW3-2Vq8gXk/hqdefault.jpg",
         duration: "12:18",
-        content: "Regular HVAC maintenance extends system life, improves efficiency, and prevents costly breakdowns.\n\nMonthly Tasks:\n- Check and change air filters\n- Inspect thermostat operation\n- Clear debris around outdoor unit\n\nSeasonal Maintenance:\n- Clean outdoor condenser coils\n- Check refrigerant levels\n- Inspect ductwork for leaks\n- Test system performance"
+        content: "The Tapo C465 is a 4K solar-powered outdoor security camera that promises wire-free installation and crystal-clear video. This video covers the complete unboxing, setup, and a full honest review so you know exactly what you're getting.\n\nKey Features of the Tapo C465:\n- 4K Ultra HD video resolution for sharp, detailed footage\n- Built-in solar panel for continuous, wire-free power\n- Color night vision with a built-in spotlight\n- Two-way audio with noise reduction\n- AI detection: person, vehicle, pet, and package detection\n- Local storage via microSD card plus optional cloud storage\n- Works with Alexa, Google Assistant, and Apple HomeKit\n\nSetup Steps Covered in the Video:\n1. Unboxing and inspecting all components\n2. Downloading the Tapo app and creating an account\n3. Mounting the camera and solar panel in the optimal position\n4. Pairing the camera to your Wi-Fi network via the app\n5. Configuring motion detection zones and notification settings\n6. Testing live view, two-way audio, and night vision\n7. Setting up local and cloud storage options\n\nPros:\n- Outstanding 4K image quality\n- Solar charging eliminates battery swap hassle\n- Easy app-based setup\n- Reliable AI motion detection\n\nCons:\n- Requires sufficient sunlight for solar charging\n- Cloud storage requires a subscription for extended history\n\nWatch the full video at: https://www.youtube.com/watch?v=dW3-2Vq8gXk"
     },
     {
         id: 13,
-        title: "Smart Thermostat Installation Guide",
-        excerpt: "Learn how to install and program a smart thermostat to optimize your home's climate control and save energy.",
-        category: "Smart Home",
+        title: "How To Install A Bathtub | Delta Classic 400",
+        excerpt: "Follow this complete step-by-step guide to install a Delta Classic 400 bathtub — from rough-in preparation to final finishing.",
+        category: "Home Improvement",
         date: "Feb 3, 2026",
-        image: "https://i.ytimg.com/vi/pZhluVOhiG8/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/OWaqV1l82N4/hqdefault.jpg",
         duration: "11:30",
-        content: "Smart thermostats can save you money while improving comfort. Our step-by-step guide makes installation and programming simple.\n\nInstallation Steps:\n1. Turn off power at breaker\n2. Remove old thermostat and label wires\n3. Install mounting plate\n4. Connect wires to new thermostat\n5. Attach display and restore power\n6. Connect to Wi-Fi and configure app"
+        content: "Installing a bathtub is a rewarding DIY project that can transform your bathroom. This video walks through the full installation of the Delta Classic 400 bathtub from start to finish.\n\nWhat You Will Need:\n- Delta Classic 400 bathtub\n- Mortar bed or adjustable bathtub support\n- Drain assembly and overflow kit\n- PVC cement and primer\n- Level, tape measure, and pencil\n- Caulk gun and silicone caulk\n\nInstallation Steps:\n1. Prepare the alcove — check that walls are plumb and floor is level\n2. Dry-fit the tub to confirm dimensions and drain alignment\n3. Mix and spread mortar bed for tub support\n4. Set the tub in place and check level on all sides\n5. Connect the drain assembly and overflow plate\n6. Secure the tub flange to the wall studs\n7. Install backer board and tile or surround panel\n8. Caulk all seams and joints with silicone\n\nWatch the full video at: https://www.youtube.com/watch?v=OWaqV1l82N4"
     },
     {
         id: 14,
-        title: "Garage Door Repair and Maintenance",
-        excerpt: "Keep your garage door operating smoothly with these essential repair tips and maintenance schedules.",
-        category: "Maintenance",
+        title: "How To Install A Bath And Shower Surround | Delta Classic 400",
+        excerpt: "Learn how to install the Delta Classic 400 bath and shower surround with this clear step-by-step guide — a clean, watertight finish every time.",
+        category: "Home Improvement",
         date: "Feb 2, 2026",
-        image: "https://i.ytimg.com/vi/J8efDwkhKGc/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/hb-bUcoJQeM/hqdefault.jpg",
         duration: "14:25",
-        content: "Your garage door is one of the most-used entry points in your home. Regular maintenance prevents problems and extends its lifespan.\n\nCommon Issues and Fixes:\n- Door will not open: Check remote batteries, power source\n- Noisy operation: Lubricate hinges, rollers, and tracks\n- Door reverses before closing: Adjust force settings\n- Uneven closing: Check spring tension\n\nSafety Note: Never attempt to repair garage door springs yourself."
+        content: "The Delta Classic 400 bath and shower surround is a durable, easy-to-install wall system that gives your bathroom a polished, watertight finish. This video covers the complete installation process from wall prep to final caulking.\n\nWhat You Will Need:\n- Delta Classic 400 surround panel kit\n- Appropriate adhesive (check manufacturer specs)\n- Level, tape measure, and pencil\n- Drill and screwdriver\n- Utility knife or jigsaw (for cutouts)\n- Silicone caulk and caulk gun\n- Painter's tape\n\nInstallation Steps:\n1. Prepare walls — ensure they are clean, dry, and structurally sound\n2. Locate and mark stud positions on the wall\n3. Dry-fit all panels to confirm layout and trim any cutouts for plumbing fixtures\n4. Apply adhesive to the back of each panel per manufacturer instructions\n5. Start with the back wall panel — press firmly and check for level\n6. Install side panels, ensuring tight seams with the back panel\n7. Drill and install trim pieces and fixture cutouts\n8. Apply silicone caulk to all seams, corners, and the tub-to-surround joint\n9. Smooth caulk with a wet finger and allow to cure fully before use\n\nWatch the full video at: https://www.youtube.com/watch?v=hb-bUcoJQeM"
     },
     {
         id: 15,
-        title: "Home Office Design Ideas",
-        excerpt: "Create a productive and stylish home office space with these innovative design ideas and organization tips.",
+        title: "Before After Bathroom Remodel - Remodeling Ideas / Bathroom Renovation by KLM Kitchens Baths Floors",
+        excerpt: "Get inspired by stunning before-and-after bathroom remodel transformations from KLM Kitchens Baths Floors — real renovations with real results.",
         category: "Renovation",
         date: "Feb 1, 2026",
-        image: "https://i.ytimg.com/vi/EaV74R2rMwk/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/vkBF9oc6DAo/hqdefault.jpg",
         duration: "17:10",
-        content: "With remote work becoming more common, a well-designed home office is essential for productivity and work-life balance.\n\nEssential Elements:\n- Ergonomic desk and chair\n- Proper lighting\n- Organized storage solutions\n- Technology setup\n- Soundproofing or noise reduction\n\nLayout Ideas:\n- Dedicated room with door for privacy\n- Corner office in bedroom or living room\n- Converted closet office"
+        content: "If you're planning a bathroom renovation, seeing real before-and-after transformations is one of the best ways to get inspired and plan your project. This video from KLM Kitchens Baths Floors showcases stunning bathroom remodels that demonstrate what a professional renovation can achieve.\n\nWhat You Will See:\n- Full bathroom gut renovations — down to the studs and back\n- Complete tile replacement: floors, walls, and shower surrounds\n- Vanity and cabinet upgrades with modern finishes\n- New fixtures: faucets, showerheads, lighting, and mirrors\n- Before photos that show the true transformation\n\nKey Renovation Ideas Featured:\n- Converting a dated tub/shower combo into a walk-in shower\n- Replacing builder-grade vanities with custom cabinetry\n- Installing large-format floor tiles for a spacious, modern look\n- Adding recessed niches and built-in storage to shower walls\n- Upgrading lighting from basic overhead fixtures to layered, spa-like lighting\n\nPlanning Your Bathroom Remodel:\n1. Set a realistic budget — include a 10-15% contingency for surprises\n2. Decide what stays and what goes — full gut vs. surface refresh\n3. Choose a tile and fixture style that complements your home\n4. Hire licensed contractors for plumbing, electrical, and tile work\n5. Plan for the timeline — a full bathroom remodel typically takes 2–4 weeks\n\nWatch the full video at: https://www.youtube.com/watch?v=vkBF9oc6DAo"
     },
     {
         id: 16,
-        title: "Water Heater Installation and Troubleshooting",
-        excerpt: "Everything you need to know about water heater types, installation, and common troubleshooting solutions.",
-        category: "Maintenance",
+        title: "Bathroom Remodel Makeover Ideas - 5 Before & After Bathroom Renovation Designs",
+        excerpt: "Explore 5 incredible before and after bathroom renovation designs packed with makeover ideas to inspire your next remodel.",
+        category: "Renovation",
         date: "Jan 31, 2026",
-        image: "https://i.ytimg.com/vi/QJR-IVC6vXs/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/lJCX1yRYCBU/hqdefault.jpg",
         duration: "19:05",
-        content: "Water heaters are essential for daily comfort. Understand the different types, installation process, and how to troubleshoot common problems.\n\nWater Heater Types:\n- Tank Storage: Most affordable option\n- Tankless On-Demand: Energy efficient\n- Heat Pump: Very efficient\n- Solar: Eco-friendly\n\nCommon Problems and Solutions:\n- No hot water: Check pilot light or circuit breaker\n- Insufficient hot water: Adjust temperature or flush tank"
+        content: "Five bathroom transformations, one video — this showcase of before and after renovations is packed with design ideas for every style and budget. Whether you want a simple refresh or a full gut remodel, these real-world examples will help you visualize the possibilities.\n\nThe 5 Renovation Designs Covered:\n\n1. Small Bathroom Transformation\n- Replaced cramped tub with a sleek walk-in shower\n- Light-colored large-format tile to make the space feel bigger\n- Floating vanity with under-cabinet lighting\n\n2. Master Bathroom Luxury Upgrade\n- Freestanding soaking tub as the centerpiece\n- Custom double vanity with quartz countertops\n- Floor-to-ceiling marble-look porcelain tile\n\n3. Budget-Friendly Guest Bathroom Refresh\n- New vanity, mirror, and light fixture — no plumbing moved\n- Peel-and-stick floor tile for an affordable floor update\n- Fresh paint and new accessories for a complete new look\n\n4. Vintage Bathroom Modernization\n- Removed pink tile and dated fixtures\n- Installed subway tile with dark grout for a timeless look\n- Matte black fixtures throughout\n\n5. Accessible Bathroom Remodel\n- Walk-in shower with zero-threshold entry\n- Grab bars integrated into the tile design\n- Non-slip floor tile and comfort-height toilet\n\nKey Design Tips from All 5 Renovations:\n- Tile selection is the most impactful design decision in any bathroom remodel\n- Lighting layers (overhead, vanity, accent) dramatically elevate the feel\n- Consistent finishes across fixtures and hardware create a cohesive look\n- Storage solutions should be planned from the start, not added as an afterthought\n\nWatch the full video at: https://www.youtube.com/watch?v=lJCX1yRYCBU"
     },
     {
         id: 17,
-        title: "Home Automation Systems Explained",
-        excerpt: "Discover how home automation systems work and which smart devices are essential for modern living.",
-        category: "Smart Home",
+        title: "The Best Paint Colors for Small Bathrooms",
+        excerpt: "Discover the best paint colors to make your small bathroom look bigger, brighter, and more stylish — with expert tips for every design style.",
+        category: "Home Improvement",
         date: "Jan 30, 2026",
-        image: "https://i.ytimg.com/vi/yjAU5mflg7E/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/KCtKBhneBk0/hqdefault.jpg",
         duration: "16:45",
-        content: "Home automation makes your house smarter, more efficient, and more secure. Our comprehensive guide explains how these systems work.\n\nCore Components:\n- Smart hub or controller\n- Smart speakers\n- Smartphone app for remote control\n- Wi-Fi network\n\nEssential Smart Devices:\n- Smart thermostat\n- Smart lighting\n- Smart locks\n- Smart security cameras\n- Smart doorbell"
+        content: "Color is one of the most powerful and affordable tools in bathroom design. The right paint color can make a small bathroom feel spacious, fresh, and polished. The wrong choice can make it feel dark and cramped. This guide covers the best paint color options for small bathrooms and how to choose the right one for your space.\n\nWhy Paint Color Matters in Small Bathrooms:\n- Light colors reflect more light, making rooms feel larger and airier\n- Cool tones recede visually, expanding the perception of space\n- Warm tones add coziness and depth — best for larger small bathrooms\n- High-gloss sheens reflect light and are moisture-resistant\n\nTop Paint Colors for Small Bathrooms:\n\n1. Soft White or Bright White\n- Creates a clean, crisp, spa-like feel\n- Maximizes light reflection\n- Best for bathrooms with limited natural light\n\n2. Light Gray\n- Modern and versatile — pairs with almost any fixture finish\n- Cool undertones make the room feel fresh and open\n- Popular choices: Repose Gray (Sherwin-Williams), Agreeable Gray\n\n3. Pale Blue or Soft Aqua\n- Evokes a calm, spa-like atmosphere\n- Works beautifully with white tile and chrome or nickel fixtures\n- Creates a cool, airy feeling\n\n4. Sage Green\n- Nature-inspired and calming\n- Works well with wood tones and matte black fixtures\n- Trending in modern and transitional bathroom designs\n\n5. Warm Greige (Gray-Beige)\n- Versatile neutral that works with warm and cool elements\n- Feels more inviting than stark white or cool gray\n- Popular choices: Accessible Beige, Edgecomb Gray\n\n6. Navy or Deep Blue (Accent Wall)\n- Bold choice that adds drama in a small space\n- Use on a single accent wall for contrast\n- Pair with white fixtures and gold or brass hardware\n\nPro Tips for Choosing Bathroom Paint:\n- Always test paint samples on the wall and observe in different lighting\n- Use a semi-gloss or satin finish for moisture resistance and easy cleaning\n- Consider the undertones of your tile and fixtures before choosing paint\n- Lighter ceilings make low ceilings feel higher\n- Painting the ceiling the same color as the walls creates a cocooning effect\n\nWatch the full video at: https://www.youtube.com/watch?v=KCtKBhneBk0"
     },
     {
         id: 18,
-        title: "Roof Inspection and Repair Guide",
-        excerpt: "Protect your home with regular roof inspections and learn how to identify and fix common roofing issues.",
-        category: "Maintenance",
+        title: "How to Size Your Solar Power System",
+        excerpt: "Learn exactly how to calculate the right size solar power system for your home — panels, batteries, and inverters explained in plain language.",
+        category: "Home Improvement",
         date: "Jan 29, 2026",
-        image: "https://i.ytimg.com/vi/M2Sh1IRC7Gs/hqdefault.jpg",
+        image: "https://i.ytimg.com/vi/TJBGbufexEM/hqdefault.jpg",
         duration: "15:20",
-        content: "Your roof is your home first line of defense against the elements. Regular inspections and timely repairs prevent costly damage.\n\nInspection Checklist:\n- Missing, cracked, or curling shingles\n- Damaged flashing around chimneys\n- Sagging areas or uneven surfaces\n- Moss, algae, or debris buildup\n- Gutter condition and drainage\n\nInspection Schedule:\n- Biannual inspections in spring and fall\n- After major storms\n- Professional inspection every 3 years"
+        content: "Sizing a solar power system correctly is the most important step before you spend a dollar on panels or batteries. Too small and you won't meet your energy needs. Too large and you overpay. This guide walks through the exact process for calculating the right system size for your home.\n\nStep 1: Calculate Your Daily Energy Consumption\n- Review your electricity bills for the past 12 months\n- Find your average daily kWh usage (monthly kWh ÷ 30)\n- Account for seasonal variation — summer AC loads vs. winter heating\n\nStep 2: Determine Your Peak Sun Hours\n- Peak sun hours vary by location (typically 4–6 hours/day in the US)\n- Use a solar irradiance map or tool like PVWatts to find your area's average\n- This number directly affects how many panels you need\n\nStep 3: Calculate the Solar Array Size\n- Formula: Daily kWh usage ÷ Peak sun hours = Required kW of solar panels\n- Example: 30 kWh/day ÷ 5 peak sun hours = 6 kW system\n- Add 20–25% to account for system inefficiencies and losses\n\nStep 4: Determine Battery Storage (if going off-grid or for backup)\n- Decide how many days of autonomy you need (typically 1–3 days)\n- Formula: Daily kWh usage × Days of autonomy ÷ Battery depth of discharge\n- Example: 30 kWh × 2 days ÷ 0.8 DoD = 75 kWh of battery storage\n\nStep 5: Size the Inverter\n- The inverter should match or slightly exceed your solar array output in kW\n- For battery systems, the inverter must also handle your peak load demand\n- Consider a hybrid inverter for grid-tied systems with battery backup\n\nCommon Sizing Mistakes to Avoid:\n- Underestimating future energy needs (EV charging, HVAC upgrades)\n- Using only average usage without accounting for peak demand\n- Ignoring shading from trees or roofline obstructions\n- Forgetting to factor in temperature derating for panels in hot climates\n\nWatch the full video at: https://www.youtube.com/watch?v=TJBGbufexEM"
     }
 ];
 
@@ -188,18 +188,22 @@ var blogPageUrls = {
     // Local HTML files are shown as comments for reference
     1:  'https://homezies.com/vlog-security-cameras/',                          // local: blog-security-cameras.html
     2:  'https://homezies.com/roof-maintenance/',              // local: blog-roof-maintenance.html
-    3:  'blog-gutter-guard.html',                              // local: blog-gutter-guard.html
-    4:  'blog-flat-roof-installation.html',                    // local: blog-flat-roof-installation.html
-    5:  'blog-rain-gutter-types.html',                         // local: blog-rain-gutter-types.html
-    6:  'blog-gutter-cleaning.html',                           // local: blog-gutter-cleaning.html
+    3:  'https://homezies.com/gutter-guard/',                   // local: blog-gutter-guard.html
+    4:  'https://homezies.com/flat-roof-installation/',         // local: blog-flat-roof-installation.html
+    5:  'https://homezies.com/rain-gutter-types/',              // local: blog-rain-gutter-types.html
+    6:  'https://homezies.com/gutter-cleaning/',                // local: blog-gutter-cleaning.html
     7:  'blog-window-tint.html',                               // local: blog-window-tint.html
     8:  'blog-jambliner-assembly.html',                        // local: blog-jambliner-assembly.html
     9:  'blog-bathroom-floor.html',                            // local: blog-bathroom-floor.html
     10: 'blog-basement-finishing.html',                        // local: blog-basement-finishing.html
-    11: 'blog-outdoor-security.html',                          // local: blog-outdoor-security.html
-    12: 'blog-hvac-maintenance.html',                          // local: blog-hvac-maintenance.html
-    13: 'blog-smart-thermostat.html',                          // local: blog-smart-thermostat.html
-    14: 'blog-garage-door.html'                                // local: blog-garage-door.html
+    11: 'blog-wired-vs-wireless-cameras.html',                 // local: blog-wired-vs-wireless-cameras.html
+    12: 'blog-tapo-c465-review.html',                          // local: blog-tapo-c465-review.html
+    13: 'blog-install-bathtub-delta.html',                     // local: blog-install-bathtub-delta.html
+    14: 'blog-install-bath-shower-surround.html',              // local: blog-install-bath-shower-surround.html
+    15: 'blog-bathroom-remodel-klm.html',                      // local: blog-bathroom-remodel-klm.html
+    16: 'blog-bathroom-remodel-makeover.html',                 // local: blog-bathroom-remodel-makeover.html
+    17: 'blog-small-bathroom-paint-colors.html',               // local: blog-small-bathroom-paint-colors.html
+    18: 'blog-solar-power-sizing.html'                         // local: blog-solar-power-sizing.html
 };
 
 // State
