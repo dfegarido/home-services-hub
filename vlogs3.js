@@ -192,18 +192,18 @@ var blogPageUrls = {
     4:  'https://homezies.com/flat-roof-installation/',         // local: blog-flat-roof-installation.html
     5:  'https://homezies.com/rain-gutter-types/',              // local: blog-rain-gutter-types.html
     6:  'https://homezies.com/gutter-cleaning/',                // local: blog-gutter-cleaning.html
-    7:  'blog-window-tint.html',                               // local: blog-window-tint.html
-    8:  'blog-jambliner-assembly.html',                        // local: blog-jambliner-assembly.html
-    9:  'blog-bathroom-floor.html',                            // local: blog-bathroom-floor.html
-    10: 'blog-basement-finishing.html',                        // local: blog-basement-finishing.html
-    11: 'blog-wired-vs-wireless-cameras.html',                 // local: blog-wired-vs-wireless-cameras.html
-    12: 'blog-tapo-c465-review.html',                          // local: blog-tapo-c465-review.html
-    13: 'blog-install-bathtub-delta.html',                     // local: blog-install-bathtub-delta.html
-    14: 'blog-install-bath-shower-surround.html',              // local: blog-install-bath-shower-surround.html
-    15: 'blog-bathroom-remodel-klm.html',                      // local: blog-bathroom-remodel-klm.html
-    16: 'blog-bathroom-remodel-makeover.html',                 // local: blog-bathroom-remodel-makeover.html
-    17: 'blog-small-bathroom-paint-colors.html',               // local: blog-small-bathroom-paint-colors.html
-    18: 'blog-solar-power-sizing.html'                         // local: blog-solar-power-sizing.html
+    7:  'https://homezies.com/commercial-door-window-tint/',     // local: blog-window-tint.html
+    8:  'https://homezies.com/tilt-jambliner/',                // local: blog-jambliner-assembly.html
+    9:  'https://homezies.com/bathroom-floor/',                // local: blog-bathroom-floor.html
+    10: 'https://homezies.com/basement-finishing/',             // local: blog-basement-finishing.html
+    11: 'https://homezies.com/wired-vs-wireless-camera/',       // local: blog-wired-vs-wireless-cameras.html
+    12: 'https://homezies.com/solar-camera/',                   // local: blog-tapo-c465-review.html
+    13: 'https://homezies.com/how-to-install-a-bathtub/',       // local: blog-install-bathtub-delta.html
+    14: 'https://homezies.com/how-to-install-a-bath-and-shower/', // local: blog-install-bath-shower-surround.html
+    15: 'https://homezies.com/bathroom-remodel/',               // local: blog-bathroom-remodel-klm.html
+    16: 'https://homezies.com/bathroom-remodel-makeover/',      // local: blog-bathroom-remodel-makeover.html
+    17: 'https://homezies.com/small-bathroom-paint-colors/',    // local: blog-small-bathroom-paint-colors.html
+    18: 'https://homezies.com/how-to-size-your-solar-power-system/' // local: blog-solar-power-sizing.html
 };
 
 // State
